@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrianKoome
+- 👋 Hi, I’m Brian Koome
   
 Sponsor CodeCraft
 
