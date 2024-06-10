@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @BrianKoome
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on ...
+Sponsor CodeCraft
+What is CodeCraft?
+CodeCraft: A lightweight code editor for efficient coding.
+Why Sponsor CodeCraft?
+Support Development: Help us improve CodeCraft for you.
+Recognition: Gain early access to new features and exclusive content.
+Spread the Word
+Share this README to help us grow!
 - 📫 How to reach me email @ briankoome19@gmail.com
-
-<!---
-BrianKoome/BrianKoome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
